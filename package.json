@@ -1,7 +1,13 @@
 {
-	"name": "soql-tester",
-	"main": "index.html",
-	"window": {
-		"toolbar": false
-	}
+  "name": "soql-tester",
+  "version": "0.0.0",
+  "main": "index.html",
+  "window": {
+    "toolbar": false
+  },
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "node-webkit-builder": "~0.2.0",
+    "gulp-util": "~3.0.1"
+  }
 }
